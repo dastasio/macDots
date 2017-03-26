@@ -7,6 +7,9 @@ set expandtab
 set autoindent  noexpandtab tabstop=4   shiftwidth=4
 set background=dark 
 let mapleader="\\"
+set backspace=2
+set backspace=indent,eol,start
+
 
 "vim-airline
 set laststatus=2
